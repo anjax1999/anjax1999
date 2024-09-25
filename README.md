@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjax1999
 - 👀 I’m interested in self-development, business and reading books.
-- 🌱 I’m currently learning front-end development skills like css, html and JavaSricpt.
-- 💞️ I’m looking to collaborate on some open-source project as I'd love to practice using my new programming skills.
+- 🌱 I’m currently developing my JS and React skills.
+- 💞️ I’m looking to collaborate on some open-source project:)
 - 📫 How to reach me -> text me: anjax1999@gmail.com
 
 <!---
