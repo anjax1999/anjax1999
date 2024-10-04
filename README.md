@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjax1999
 - 👀 I’m interested in self-development, business and reading books.
-- 🌱 I’m currently developing my JS and React skills.
+- 🌱 I’m currently focusing on JS and React.
 - 💞️ I’m looking to collaborate on some open-source project:)
 - 📫 How to reach me -> text me: anjax1999@gmail.com
 
